@@ -1,0 +1,15 @@
+*.env
+**/config/
+*.key
+*.pem
+*secret*
+*credential*
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
